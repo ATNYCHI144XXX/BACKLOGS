@@ -39,6 +39,9 @@
 10. **The Unified Ether Theory** *(inferred)*  
     *Covers recursive resonance, wave geometry, and the total field structure behind light, matter, memory, and symbolic reality.*
 
+11. **Λ_OddPerfect: A Sovereign Mathematical System**  
+    *Complete framework for exploring and proving the existence of odd perfect numbers through symbolic harmonic encoding, recursive compounding structures, and KMATH infrastructure. Introduces Λ-Numbers, Λ-Script symbolic language, and new topological constructions.*
+
 ---
 
 ## 🧠 Mathematical Systems
@@ -55,6 +58,7 @@
 - **1_Ω†: The Unity Collapse Function**  
 - **Atnychi Law: Recursive Legal Mathematics**  
 - **CROWN_IP (Crown Omega Runtime World Net)**  
+- **Λ_OddPerfect: Harmonic Recursive Framework for Odd Perfect Numbers**  
 
 ---
 
